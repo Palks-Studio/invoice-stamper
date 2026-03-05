@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/facturation-interface-fr.png" alt="Interface d'acquittement des factures" width="1200">
+  <img src="docs/images/formulaire-acquittement-fr.png" alt="Interface d'acquittement des factures" width="1200">
 </p>
 
 
