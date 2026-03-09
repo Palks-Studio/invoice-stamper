@@ -54,7 +54,9 @@ dans un dossier dédié du système.
 ## Prérequis
 
 - PHP 8.0+  
-- Extension `zip` activée  
+- Extensions PHP :  
+  - `zip`  
+  - `mbstring`  
 - Composer
 
 ---
