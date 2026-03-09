@@ -52,7 +52,9 @@ in a dedicated system directory.
 ## Requirements
 
 - PHP 8.0+  
-- `zip` extension enabled  
+- PHP extensions:  
+  - `zip`  
+  - `mbstring`  
 - Composer
 
 ---
