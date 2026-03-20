@@ -31,6 +31,8 @@ Il permet d’apposer un tampon d’acquittement
 sur des factures PDF existantes et de préparer  
 leur envoi au service de facturation batch.
 
+[![Facturation batch Factur-X](https://img.shields.io/badge/Facturation%20batch%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-batch-facturx)
+
 ---
 
 ## Aperçu
