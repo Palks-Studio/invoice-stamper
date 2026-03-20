@@ -30,6 +30,8 @@ It allows a payment confirmation stamp to be applied
 to existing PDF invoices and prepares them  
 for submission to the batch invoicing service.
 
+[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://palks-studio.com/en/batch-invoicing-facturx)
+
 ---
 
 ## Overview
