@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![PDF Engine](https://img.shields.io/badge/PDF-Stamping%20Engine-0095b1?style=flat)
 ![Bilingual](https://img.shields.io/badge/Lang-FR%20%2F%20EN-16a085?style=flat)
-[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://palks-studio.com/en/batch-invoicing-facturx)
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-0095b1?style=flat)](https://palks-studio.com/en/invoice-stamper)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -29,7 +29,9 @@ This tool is designed to be deployed directly within the client's environment.
 It allows a payment confirmation stamp to be applied to existing PDF invoices and prepares them  
 for submission to the batch invoicing service.
 
-[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://palks-studio.com/en/batch-invoicing-facturx)
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-0095b1?style=flat)](https://palks-studio.com/en/invoice-stamper)
+
+*This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
 
 ---
 
