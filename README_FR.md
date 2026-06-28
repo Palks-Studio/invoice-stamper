@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![PDF Engine](https://img.shields.io/badge/PDF-Stamping%20Engine-0095b1?style=flat)
 ![Bilingual](https://img.shields.io/badge/Lang-FR%20%2F%20EN-16a085?style=flat)
-[![Facturation batch Factur-X](https://img.shields.io/badge/Facturation%20batch%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-batch-facturx)
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-0095b1?style=flat)](https://palks-studio.com/fr/invoice-stamper)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -29,7 +29,9 @@ Cet outil est conçu pour être déployé directement dans l’environnement du 
 Il permet d’apposer un tampon d’acquittement sur des factures PDF existantes et de préparer  
 leur envoi au service de facturation batch.
 
-[![Facturation batch Factur-X](https://img.shields.io/badge/Facturation%20batch%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-batch-facturx)
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-0095b1?style=flat)](https://palks-studio.com/fr/invoice-stamper)
+
+*Ce lien renvoie vers la version autonome d'Invoice Stamper, et non vers le module complémentaire de facturation batch.*
 
 ---
 
