@@ -84,6 +84,12 @@ invoice-stamper/
     └── README.md       → Client documentation explaining how to use the engine
 ```
 
+
+YouTube:
+https://www.youtube.com/watch?v=bV1k9jVrZ88
+
+*This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
+
 ---
 
 ## Requirements
