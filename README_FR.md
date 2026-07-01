@@ -83,6 +83,12 @@ invoice-stamper/
     └── README_FR.md    → Documentation client expliquant l'utilisation du moteur
 ```
 
+
+YouTube :
+https://www.youtube.com/watch?v=bV1k9jVrZ88
+
+*Ce lien renvoie vers la version autonome d'Invoice Stamper, et non vers le module complémentaire de facturation batch.*
+
 ---
 
 ## Prérequis
