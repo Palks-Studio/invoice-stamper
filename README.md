@@ -31,7 +31,7 @@ This tool is designed to be deployed directly within the client's environment.
 It allows a payment confirmation stamp to be applied to existing PDF invoices and prepares them  
 for submission to the batch invoicing service.
 
-[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-0095b1?style=flat)](https://palks-studio.com/en/invoice-stamper)
+[View the system](https://palks-studio.com/en/invoice-stamper)
 
 *This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
 
@@ -87,8 +87,7 @@ invoice-stamper/
 ```
 
 
-YouTube:
-https://www.youtube.com/watch?v=bV1k9jVrZ88
+[Watch the Video](https://www.youtube.com/watch?v=bV1k9jVrZ88)
 
 *This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
 
