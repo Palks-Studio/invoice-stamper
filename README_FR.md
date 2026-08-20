@@ -72,7 +72,7 @@ invoice-stamper/
 ├── temp_runtime/       → Dossier temporaire utilisé pour l'extraction des ZIP et la génération des PDFs
 │   └── .htaccess       → Bloque l'accès direct au dossier temporaire depuis le web
 │
-├── vendor/             → Dépendances Composer nécessaires au moteur PDF (bibliothèques FPDI / FPDF)
+├── dependencies/       → Dépendances Composer nécessaires au moteur PDF (bibliothèques FPDI / FPDF)
 ├── paid_archives/      → Archivage des factures acquittées issues du mode batch
 ├── direct_archives/    → Archivage des PDFs acquittés issus du mode direct
 ├── logs/               → Journaux d'erreurs
