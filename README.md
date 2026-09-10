@@ -31,10 +31,6 @@ This tool is designed to be deployed directly within the client's environment.
 It allows a payment confirmation stamp to be applied to existing PDF invoices and prepares them  
 for submission to the batch invoicing service.
 
-[View the system](https://palks-studio.com/en/invoice-stamper)
-
-*This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
-
 ---
 
 ## Overview
