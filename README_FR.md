@@ -31,10 +31,6 @@ Cet outil est conçu pour être déployé directement dans l’environnement du 
 Il permet d’apposer un tampon d’acquittement sur des factures PDF existantes et de préparer  
 leur envoi au service de facturation batch.
 
-[Voir le système](https://palks-studio.com/fr/invoice-stamper)
-
-*Ce lien renvoie vers la version autonome d'Invoice Stamper, et non vers le module complémentaire de facturation batch.*
-
 ---
 
 ## Aperçu
