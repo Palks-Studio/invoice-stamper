@@ -82,7 +82,7 @@ invoice-stamper/
 
 
 
-[Voir la vidéo](https://www.youtube.com/watch?v=bV1k9jVrZ88)
+[Voir la vidéo](https://www.youtube.com/watch?v=vQZP6Q_C5FI)
 
 *Ce lien renvoie vers la version autonome d'Invoice Stamper, et non vers le module complémentaire de facturation batch.*
 
