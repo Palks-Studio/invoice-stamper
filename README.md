@@ -82,7 +82,7 @@ invoice-stamper/
 ```
 
 
-[Watch the Video](https://www.youtube.com/watch?v=bV1k9jVrZ88)
+[Watch the Video](https://www.youtube.com/watch?v=vQZP6Q_C5FI)
 
 *This link points to the standalone Invoice Stamper, not the batch invoicing add-on.*
 
