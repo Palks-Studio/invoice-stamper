@@ -9,6 +9,7 @@
 ![Bilingual](https://img.shields.io/badge/Lang-FR%20%2F%20EN-16a085?style=flat)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-Technical%20Article-7C3AED?style=flat&logo=devdotto&logoColor=white)](https://dev.to/palks_studio/php-invoice-payment-stamping-engine-architecture-fpdi-batch-processing-and-original-document-28a5)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -21,14 +22,13 @@
 > Ce dépôt constitue une présentation technique et une documentation du projet.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-Addon au service de facturation batch Factur-X EN16931. Le moteur de génération batch est disponible dans le dépôt [automation_finance](https://github.com/PalksDev/automation_finance).
+Initialement développé comme module complémentaire du système de facturation batch Factur-X EN16931 de Palks Studio, ce moteur permet d'acquitter des factures PDF existantes sans modifier les documents originaux.
 
-Interface web protégée permettant d'apposer un tampon rouge « ACQUITTEE » sur les factures PDF reçues chaque mois, à l'unité ou en lot avec export ZIP structuré par client.
+Le système de facturation batch, désormais hors service, est présenté dans le dépôt [automation-system](https://github.com/Palks-Studio/automation-system).
 
-Cet outil est conçu pour être déployé directement dans l’environnement du client.
+L'interface web protégée permet d'apposer un tampon rouge « ACQUITTEE » sur les factures PDF, à l'unité ou en lot, avec export ZIP structuré par client.
 
-Il permet d’apposer un tampon d’acquittement sur des factures PDF existantes et de préparer  
-leur envoi au service de facturation batch.
+Cet outil est conçu pour être déployé directement dans l'environnement du client et fonctionne indépendamment du système de facturation principal.
 
 ---
 
@@ -86,6 +86,10 @@ invoice-stamper/
 
 *Ce lien renvoie vers la version autonome d'Invoice Stamper, et non vers le module complémentaire de facturation batch.*
 
+Pour aller plus loin, un article technique présente l'architecture du moteur d'acquittement, l'utilisation de FPDI pour appliquer un tampon sur les factures PDF, le traitement par lots et la préservation des documents originaux.
+
+👉 [PHP Invoice Payment Stamping Engine: Architecture, FPDI, Batch Processing and Original Document Preservation](https://dev.to/palks_studio/php-invoice-payment-stamping-engine-architecture-fpdi-batch-processing-and-original-document-28a5) (DEV.to, en anglais)
+
 ---
 
 ## Prérequis
@@ -133,7 +137,9 @@ Selon la configuration du déploiement, cette copie peut également être archiv
 
 Les PDFs acquittés générés sont destinés à servir de justificatifs visuels de paiement.
 
-Le moteur ne garantit pas la conservation des données XML Factur-X embarquées dans les fichiers PDF retraités.
+Les copies PDF acquittées générées par le moteur ne sont pas des factures Factur-X. Elles sont destinées à servir de justificatifs visuels de paiement.
+
+Les factures Factur-X originales, avec leur XML embarqué, restent inchangées.
 
 ---
 
@@ -155,12 +161,6 @@ Le moteur ne garantit pas la conservation des données XML Factur-X embarquées 
 - Validation stricte des données de paiement  
 - Fichiers temporaires supprimés après traitement  
 - Politique de sécurité des réponses HTTP (type, cache, indexation)
-
----
-
-## Contexte
-
-Ce moteur est un addon au service de facturation batch Factur-X EN16931 de [Palks Studio](https://palks-studio.com). Il est conçu pour être livré en one shot chez le client, sans dépendance au service principal après installation.
 
 ---
 
